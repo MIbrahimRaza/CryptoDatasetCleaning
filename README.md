@@ -80,4 +80,4 @@ The notebook walks through a full pipeline, step by step:
 
 ## 🎯 Purpose
 
-This project was completed as an academic assignment focused on data cleaning and preprocessing methodology — comparing multiple techniques at each stage (imputation, outlier handling, smoothing, normalization) and justifying the final choice with quantitative evaluation (RMSE/MAE, skewness, std. deviation) rather than applying a single fixed method blindly.
+This project focuses on data cleaning and preprocessing methodology — comparing multiple techniques at each stage (imputation, outlier handling, smoothing, normalization) and justifying the final choice with quantitative evaluation (RMSE/MAE, skewness, std. deviation) rather than applying a single fixed method blindly.
